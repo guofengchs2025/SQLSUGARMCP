@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "1180",
+    "title": "SqlSugar  .Net ORM 5.X 官网 、文档、教程",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1180",
+    "path": "1180.md",
+    "category": "产品详情",
+    "sha256": "9050550fce476f5c7c712f2ce0f48d3d2fc492d995d1835db2b767a2c6675848",
+    "bytes": 11633,
+    "fetched_at": "2026-10-07T12:31:55Z"
+  },
+  {
+    "id": "1213",
+    "title": "版本记录，更新记录",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1213",
+    "path": "1213.md",
+    "category": "产品详情",
+    "sha256": "ce28bf48d09aeffff66289b6686badbeb2ba0acd9ec234df47ba6ed8b6956dbb",
+    "bytes": 12218,
+    "fetched_at": "2026-10-07T12:31:55Z"
+  },
+  {
+    "id": "1215",
+    "title": ".NET 主流开源项目案例",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1215",
+    "path": "1215.md",
+    "category": "产品详情",
+    "sha256": "5717d621d4ead19e82b413b45d566ced44ca2c24984bc5fc8ed136541d5a06f3",
+    "bytes": 19801,
+    "fetched_at": "2026-10-07T12:31:57Z"
+  },
+  {
+    "id": "1216",
+    "title": "升级指南",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1216",
+    "path": "1216.md",
+    "category": "产品详情",
+    "sha256": "4e25d556723d1c9304d83a9675647f700798b7081a1aa0f1d7b2047c6a271aea",
+    "bytes": 2400,
+    "fetched_at": "2026-10-07T12:31:58Z"
+  },
+  {
+    "id": "1226",
+    "title": "安装 Nuget",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1226",
+    "path": "1226.md",
+    "category": "从零开始",
+    "sha256": "4dc6e2a6a179447a2d3768129ebc7820718e84b74b1e769de05c2e1826ba218a",
+    "bytes": 2738,
+    "fetched_at": "2026-10-07T12:32:00Z"
+  },
+  {
+    "id": "1181",
+    "title": "简单示例，1分钟入门",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1181",
+    "path": "1181.md",
+    "category": "从零开始",
+    "sha256": "2883fe3e33ef4ce657a91e6c06225f96ff080bfb7f8b350b4d50b69d01209c34",
+    "bytes": 14068,
+    "fetched_at": "2026-10-07T12:32:00Z"
+  },
+  {
+    "id": "1182",
+    "title": "配置实体",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1182",
+    "path": "1182.md",
+    "category": "从零开始",
+    "sha256": "646e43b3b080597aff56e6b0ff5c26ed307d70aa442f8ab3870c713a623623ee",
+    "bytes": 9392,
+    "fetched_at": "2026-10-07T12:32:00Z"
+  },
+  {
+    "id": "1183",
+    "title": "事务用法",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1183",
+    "path": "1183.md",
+    "category": "从零开始",
+    "sha256": "582e860dd3196fbf2045ff94d43e2c14e87cc9e44e6b32a36c32b22aef5fe047",
+    "bytes": 11250,
+    "fetched_at": "2026-10-07T12:32:04Z"
+  },
+  {
+    "id": "2260",
+    "title": "源码学习",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2260",
+    "path": "2260.md",
+    "category": "从零开始",
+    "sha256": "deb0702af92f5f40c6423e0cc74714e6d82fba7ec0bbbf033ef1cb8de90927c6",
+    "bytes": 1471,
+    "fetched_at": "2026-10-07T12:32:07Z"
+  },
+  {
+    "id": "2350",
+    "title": "修改配置",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2350",
+    "path": "2350.md",
+    "category": "从零开始",
+    "sha256": "c8c42885b34f67dc895d2f2c64428e3f4b99f26eb311fc1061197d8a295d6dd3",
+    "bytes": 1156,
+    "fetched_at": "2026-10-07T12:32:07Z"
+  },
+  {
+    "id": "2362",
+    "title": "ADO.NET 数据库对象池原理/链接池",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2362",
+    "path": "2362.md",
+    "category": "从零开始",
+    "sha256": "786ff6c5f5de398e5a0c92eab07d009054eb7f3b43c46e10139f2397ac7d6038",
+    "bytes": 5204,
+    "fetched_at": "2026-10-07T12:32:08Z"
+  },
+  {
+    "id": "2574",
+    "title": "SqlSugar AOT 教程",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2574",
+    "path": "2574.md",
+    "category": "从零开始",
+    "sha256": "07020968c5ef2f2f0373256f0393133617c3ff684777f5b01d7bf8d82768868d",
+    "bytes": 4687,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "2308",
+    "title": "ORM 查询体系 、最简单、最强大",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2308",
+    "path": "2308.md",
+    "category": "数据查询",
+    "sha256": "209497dafe3b9f3e822f495d8a91dd145c16dfb57d801e36d663f1a92273981b",
+    "bytes": 2565,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "1187",
+    "title": "简单的 查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1187",
+    "path": "1187.md",
+    "category": "数据查询",
+    "sha256": "aa77393cf1db1a92e62871e4b7f336c84502d066c6789328107e706007cdc1dd",
+    "bytes": 6411,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "2242",
+    "title": "分页查询，同步分页和异步分页",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2242",
+    "path": "2242.md",
+    "category": "数据查询",
+    "sha256": "7faa4af8f8893d3c8d0d649fdbb89648fff686729f619966db0c5a450ce76352",
+    "bytes": 2684,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "2243",
+    "title": "分组查询、重复、去重",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2243",
+    "path": "2243.md",
+    "category": "数据查询",
+    "sha256": "6bf7296cdf03e22d2fb878e5b5f253f97941bbcac271bee6aa5236d486ba335f",
+    "bytes": 10342,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "2312",
+    "title": "排序 OrderBy",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2312",
+    "path": "2312.md",
+    "category": "数据查询",
+    "sha256": "942c5a1b3f23f272123789eee838e11fcd473fe82f3f011821103f5614a3e3a1",
+    "bytes": 4385,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "1185",
+    "title": "联表查询、关联查询、JoinTable、连表查询、Left Join",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1185",
+    "path": "1185.md",
+    "category": "数据查询",
+    "sha256": "d7e3a0f2217cbcb38f33d6b17219a2446f13cf3d5132eb295513f57e9e851937",
+    "bytes": 13877,
+    "fetched_at": "2026-10-07T12:32:11Z"
+  },
+  {
+    "id": "1188",
+    "title": "多级查询、导航查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1188",
+    "path": "1188.md",
+    "category": "数据查询",
+    "sha256": "907e694e613b97999c09ea609d5f377b78dc70b27485ef12f529989f431783c1",
+    "bytes": 26948,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2231",
+    "title": "子查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2231",
+    "path": "2231.md",
+    "category": "数据查询",
+    "sha256": "7d89c3e335af7da8b274b343533125d2254b2b428d0390003a08b7a5ea3a36a7",
+    "bytes": 10933,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2354",
+    "title": "嵌套查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2354",
+    "path": "2354.md",
+    "category": "数据查询",
+    "sha256": "eee187f047514338473f6126d0a6abe75876541cf280df5751844c58c097cade",
+    "bytes": 6942,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2309",
+    "title": "配置查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2309",
+    "path": "2309.md",
+    "category": "数据查询",
+    "sha256": "739d021afae508e898d5d95bdfa83485a532421915453ac1f5a108196c5b03fe",
+    "bytes": 6051,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2310",
+    "title": "并集查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2310",
+    "path": "2310.md",
+    "category": "数据查询",
+    "sha256": "9268c600a07cf7c44f3b6cd7b97cfd310845a78f43751c9a7d057e411d154b90",
+    "bytes": 1664,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2311",
+    "title": "树型递归查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2311",
+    "path": "2311.md",
+    "category": "数据查询",
+    "sha256": "1a7c12205baa9608cfd0f34d87abc020ffd76ef18258316914f3735dcbe1c383",
+    "bytes": 5295,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2359",
+    "title": "动态表达式",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2359",
+    "path": "2359.md",
+    "category": "数据查询",
+    "sha256": "e36b3a2e78269f5bbc9be65e59c44bd485660eb34748f1e15ffaf8585a4d30f8",
+    "bytes": 8746,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2314",
+    "title": "动态表格查询，JSON查询,WhereDynamicFilter",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2314",
+    "path": "2314.md",
+    "category": "数据查询",
+    "sha256": "43c8ba12a7321c62cd59b5f1a7acf6b0daa9420fd1fd32f318abedbbc547eeee",
+    "bytes": 10484,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "1189",
+    "title": "异步查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1189",
+    "path": "1189.md",
+    "category": "数据查询",
+    "sha256": "4e8c6963123389f9aee8e78caa0eaff52c34121de498a0d9e12fcd2a3570a7ef",
+    "bytes": 650,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "1190",
+    "title": "查询函数",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1190",
+    "path": "1190.md",
+    "category": "数据查询",
+    "sha256": "9cf0e6f53a63e608a68abf7efc7f8a20d6ed74721c0bdd22987614b7ab2cec19",
+    "bytes": 13445,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "1205",
+    "title": "查询过滤器",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1205",
+    "path": "1205.md",
+    "category": "数据查询",
+    "sha256": "183ddb5f0181d0ed4be965243e48750cd66247921b7761515022dc3bea377459",
+    "bytes": 8036,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "1225",
+    "title": "扩展SqlFunc函数",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1225",
+    "path": "1225.md",
+    "category": "数据查询",
+    "sha256": "76552b72bcb0fe84dba53e8f7a46ff0d3bf89254b22a3445e710a08d6ab33098",
+    "bytes": 3429,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2244",
+    "title": "跨库查询、多库查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2244",
+    "path": "2244.md",
+    "category": "数据查询",
+    "sha256": "ea36dd6205b92ecd2e9b224b63d90b50b36d63cf0da614fa41976aeefaa2b804",
+    "bytes": 13793,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2313",
+    "title": "简单拼SQL",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2313",
+    "path": "2313.md",
+    "category": "数据查询",
+    "sha256": "251d905025165fea2c1bbcef9875b58badf2701600efab09afd1d2a878f6e16d",
+    "bytes": 869,
+    "fetched_at": "2026-10-07T12:32:12Z"
+  },
+  {
+    "id": "2315",
+    "title": "报表查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2315",
+    "path": "2315.md",
+    "category": "数据查询",
+    "sha256": "abaf022ffab2ec85db0de349cf4a6980bd4e6eada239298a61187f244667f3d6",
+    "bytes": 7976,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2317",
+    "title": "生命周期",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2317",
+    "path": "2317.md",
+    "category": "数据查询",
+    "sha256": "d5790db8a8e2e7369ca2cb1826bfe63d7740b9fbc6e79efbf7677fc5ab4818c9",
+    "bytes": 1033,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "1184",
+    "title": "Where用法",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1184",
+    "path": "1184.md",
+    "category": "数据查询",
+    "sha256": "0083420a607e74cdda5ac07c9f2964d9565b275d5f3a6a6e44f2cd9c82298c86",
+    "bytes": 5349,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "1186",
+    "title": "Select用法",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1186",
+    "path": "1186.md",
+    "category": "数据查询",
+    "sha256": "7458e3e9dc7de5bdafa8637821fcf591d2049dec8dc8c6d81a0743103df75a42",
+    "bytes": 10520,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2316",
+    "title": "执行查询",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2316",
+    "path": "2316.md",
+    "category": "数据查询",
+    "sha256": "81e4e125e79ae932b26c0899a9101bf581aac95420afed765abefc89ed952baf",
+    "bytes": 2488,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "1193",
+    "title": "插入 、插入 教程、新增数据 、添加数据",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1193",
+    "path": "1193.md",
+    "category": "增、删、改",
+    "sha256": "d518b75c26ad20bb656c036684a9551f66d64e050502d14538ae913da0cb0dac",
+    "bytes": 10310,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "1191",
+    "title": "单表更新、更新数据",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1191",
+    "path": "1191.md",
+    "category": "增、删、改",
+    "sha256": "76497de22938bf9065647a6d0e4edaf7e635f6a3657c58243298e57400dab55c",
+    "bytes": 12865,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "1195",
+    "title": "普通删除 、单表删除、表达式删除 用法",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1195",
+    "path": "1195.md",
+    "category": "增、删、改",
+    "sha256": "ad254a51ef9b16a510dcc8effd631d8ae0cadf3a64c83a9e40191744f56add13",
+    "bytes": 5720,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2353",
+    "title": "插入或更新/AddOrUpdate/InsertOrUpdate",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2353",
+    "path": "2353.md",
+    "category": "增、删、改",
+    "sha256": "9f16d82c1542e6fa7acc577f4d1c02456dac57663ed1774f10789a13864e06df",
+    "bytes": 8255,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2568",
+    "title": "表格保存",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2568",
+    "path": "2568.md",
+    "category": "增、删、改",
+    "sha256": "fdf16cea694fa5173017234efd130f22b81b9e50314440430e7adf515b3655c5",
+    "bytes": 3345,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2430",
+    "title": "导航插入 、级联插入",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2430",
+    "path": "2430.md",
+    "category": "增、删、改",
+    "sha256": "4c27e88ef007f7d9d33bf63781e7269c3bfe722e4634194adc2a66b5d9211702",
+    "bytes": 9297,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2431",
+    "title": "导航删除",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2431",
+    "path": "2431.md",
+    "category": "增、删、改",
+    "sha256": "20fe91a932c26121d4099f49cad37ad681623c46bbe5eb57fa79d8d011f0af2a",
+    "bytes": 5908,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "2432",
+    "title": "导航更新、级联保存",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2432",
+    "path": "2432.md",
+    "category": "增、删、改",
+    "sha256": "975486c70e984ff7cecf2096c3d608527d04799dcb5d7a5c00278e45a5168b75",
+    "bytes": 14860,
+    "fetched_at": "2026-10-07T12:32:21Z"
+  },
+  {
+    "id": "1208",
+    "title": "数据导入",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1208",
+    "path": "1208.md",
+    "category": "增、删、改",
+    "sha256": "b2356460f9d5d09f449542c867ae23ecc02dfc57314803018d9e76dab232ccd6",
+    "bytes": 8274,
+    "fetched_at": "2026-10-07T12:32:24Z"
+  },
+  {
+    "id": "2399",
+    "title": "并发控制、更新、版本控制",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2399",
+    "path": "2399.md",
+    "category": "增、删、改",
+    "sha256": "18abb694677294f0de5b0b6d6720ecae0e6b91354248bace74b96e3b6812c8a6",
+    "bytes": 6119,
+    "fetched_at": "2026-10-07T12:32:24Z"
+  },
+  {
+    "id": "2561",
+    "title": "SqlSugar雪花ID常见问题",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2561",
+    "path": "2561.md",
+    "category": "增、删、改",
+    "sha256": "64a6f80e2a3de4a16ef26116b5ee8c0de5d306d541b1f93152f0638d4b9e1bf1",
+    "bytes": 3181,
+    "fetched_at": "2026-10-07T12:32:24Z"
+  },
+  {
+    "id": "1197",
+    "title": "Sql分页",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1197",
+    "path": "1197.md",
+    "category": "无实体&低代码",
+    "sha256": "84d4908489d6c940dc2a89f8ed8ec2d4b9f382815a43ecb473590918638ba05d",
+    "bytes": 2780,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1198",
+    "title": "原生 Sql 操作 ，Sql和存储过程",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1198",
+    "path": "1198.md",
+    "category": "无实体&低代码",
+    "sha256": "a418339a8a740420acf8545940bb18dc49a4b5b1972320e2bf609b4dcde6d538",
+    "bytes": 6205,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2420",
+    "title": "Json 2  Sql  , json to sql",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2420",
+    "path": "2420.md",
+    "category": "无实体&低代码",
+    "sha256": "e10947ffff12a102af1f3e5d5f01b522c2b37bc12382e2fe178c6ac50c871920",
+    "bytes": 5018,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2421",
+    "title": "无实体查询（支持多库）",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2421",
+    "path": "2421.md",
+    "category": "无实体&低代码",
+    "sha256": "ae8b27c31cdee19091bed1fb1b70c13af59db4353d58c96d2f48cad8528cd955",
+    "bytes": 12975,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2422",
+    "title": "无实体插入",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2422",
+    "path": "2422.md",
+    "category": "无实体&低代码",
+    "sha256": "3a694d8fd668cfd3ddee1d55ea5d7d33ddf9c88a5a6ae1270fef281dde40f6f6",
+    "bytes": 2051,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2423",
+    "title": "无实体更新",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2423",
+    "path": "2423.md",
+    "category": "无实体&低代码",
+    "sha256": "72b5bd248fbfe1a274622c60a93a8f988183ade9fcabaa7d0737ed10ee187cb3",
+    "bytes": 3295,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2424",
+    "title": "无实体删除",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2424",
+    "path": "2424.md",
+    "category": "无实体&低代码",
+    "sha256": "4d2487a7629a11321320657368fc0755dcf84f7fd1a9d3609ebf590f8e411f40",
+    "bytes": 1498,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2562",
+    "title": "C# 动态建类简单用例",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2562",
+    "path": "2562.md",
+    "category": "无实体&低代码",
+    "sha256": "adbab0edfaf6c2af7e6ae8ad14629bcb72a0ac64f4630ab1feec9151109f6197",
+    "bytes": 7430,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2569",
+    "title": "字符串表达式 (5.1.4.109)",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2569",
+    "path": "2569.md",
+    "category": "无实体&低代码",
+    "sha256": "de25d22bca11815716b1b160c744ee8a6338e472157f8930a9ed528168e41aca",
+    "bytes": 3241,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1206",
+    "title": "Code First 代码优先，数据迁移，索引",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1206",
+    "path": "1206.md",
+    "category": "常用功能",
+    "sha256": "d2fcef3406cd7f7b49e45a5bec3de0fd4c1537e87860946ae13949cf83b1450a",
+    "bytes": 22403,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1207",
+    "title": "Db First 实体生成",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1207",
+    "path": "1207.md",
+    "category": "常用功能",
+    "sha256": "08779ab6fa3a2e04c6912d0b5d4e21a9eeb7496d42ab65759b3b40faa1be477f",
+    "bytes": 9632,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1232",
+    "title": "Json类型  JSON操作",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1232",
+    "path": "1232.md",
+    "category": "常用功能",
+    "sha256": "8319e97b9d7a7017b151cbfb58da02f95b046d2af7385f57a281ea8b421b4301",
+    "bytes": 3746,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1203",
+    "title": "库表管理、数据库表操作方法、 Show tables 获取表结构、索引",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1203",
+    "path": "1203.md",
+    "category": "常用功能",
+    "sha256": "69d96f1bf3d7062bd717e45c3024ffbfd13a28a28bd4604eeb2379e189b90a9c",
+    "bytes": 7915,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1202",
+    "title": "实体管理",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1202",
+    "path": "1202.md",
+    "category": "常用功能",
+    "sha256": "1f57000b05c640cc6ec2f53d998c5554fbfd296bec3ff9b507057c607110e097",
+    "bytes": 975,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "1204",
+    "title": "AOP、日志、拦截、差异日志",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1204",
+    "path": "1204.md",
+    "category": "常用功能",
+    "sha256": "14cb538ab696df5b9f5a2fcb18a88dabd71e6ca96b13a619b711712e16b2f7a1",
+    "bytes": 15486,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2364",
+    "title": "辅助方法",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2364",
+    "path": "2364.md",
+    "category": "常用功能",
+    "sha256": "223ed3fea8b2e3c0cb40795e7960140498f770dd4a91d11a1e6f235ab6e0f668",
+    "bytes": 840,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2415",
+    "title": "枚举类型，枚举使用",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2415",
+    "path": "2415.md",
+    "category": "常用功能",
+    "sha256": "e366bb193b4ffcb6015644812e60d8b2467e2251533488bf86ebb67a2a1f6378",
+    "bytes": 1396,
+    "fetched_at": "2026-10-07T12:32:25Z"
+  },
+  {
+    "id": "2416",
+    "title": "事务锁",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2416",
+    "path": "2416.md",
+    "category": "常用功能",
+    "sha256": "823f9c83ca9781bd3d2277e264aa3d6f08e71463a3397f6afb86615e37e9b76c",
+    "bytes": 2062,
+    "fetched_at": "2026-10-07T12:32:26Z"
+  },
+  {
+    "id": "2542",
+    "title": "自定义类型 、 自定义转换 、 TypeHandlers",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2542",
+    "path": "2542.md",
+    "category": "常用功能",
+    "sha256": "662d10d1e4d0aee9429590c2d7908ece22b2e9d6b07fe428ca7d7138b5e4ca10",
+    "bytes": 3039,
+    "fetched_at": "2026-10-07T12:32:26Z"
+  },
+  {
+    "id": "1200",
+    "title": "打包提交",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1200",
+    "path": "1200.md",
+    "category": "常用功能",
+    "sha256": "5c1e23f5d330623ee3b74311e6e69c191ebfec9571faf1a328117dcac9bd064c",
+    "bytes": 1936,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "1228",
+    "title": "仓储定义",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1228",
+    "path": "1228.md",
+    "category": "设计模式",
+    "sha256": "1cde406e95b0ad191c751809363d3f3c8b8cecb48b1a5ba14de26ed775cd5aae",
+    "bytes": 7735,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2360",
+    "title": "工作单元模式/IUnitOfWorK/DbContext",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2360",
+    "path": "2360.md",
+    "category": "设计模式",
+    "sha256": "9cb9dec16fc669a013002130b06f21ace478bbc6972157a8b90dfca204b270ea",
+    "bytes": 6769,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2247",
+    "title": "SqlSugar.IOC/依赖注入",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2247",
+    "path": "2247.md",
+    "category": "设计模式",
+    "sha256": "5d835c26ebad669fda4940f044f948022197cd68ecf1863afb056f13eae91196",
+    "bytes": 4554,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2246",
+    "title": "多租户、多数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2246",
+    "path": "2246.md",
+    "category": "设计模式",
+    "sha256": "6bc8f086673e26347da2627f8520dbc206e0c7a2b67a533bfb83bdea34da77e9",
+    "bytes": 9589,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2405",
+    "title": "仓储+多租户",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2405",
+    "path": "2405.md",
+    "category": "设计模式",
+    "sha256": "68518238f9cdab1301d03fd42d6986d00d1e66c3e26dc97d4838d04816f99b7c",
+    "bytes": 6542,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2352",
+    "title": "单例模式、单列模式",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2352",
+    "path": "2352.md",
+    "category": "设计模式",
+    "sha256": "01293484cf5929d315cd9a47b5934df7bb7f2bad7651194bac35033ac2892098",
+    "bytes": 5445,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2409",
+    "title": "Sql注入",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2409",
+    "path": "2409.md",
+    "category": "设计模式",
+    "sha256": "c42aa74df7c24867e1a268b70e0608ae541334adce98978f662fab96f8b031d0",
+    "bytes": 2164,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2567",
+    "title": ".NET ORM 鉴别器",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2567",
+    "path": "2567.md",
+    "category": "设计模式",
+    "sha256": "19321b20c978805a1dbac9922a629882ca6ac233056b9dc0886801d942fff78b",
+    "bytes": 2854,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2576",
+    "title": ".NET中使用Value object   【 值对象  VO 】",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2576",
+    "path": "2576.md",
+    "category": "设计模式",
+    "sha256": "6b2e20ddd40d1a90616897ea213224dfca8368e37f1b9e328d66eabcb9738df7",
+    "bytes": 2397,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "2656",
+    "title": "SqlSugar使用Aspire",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2656",
+    "path": "2656.md",
+    "category": "设计模式",
+    "sha256": "153df8b1381c0343d5082630f0d3ba4a8b32bde0470a3a034de3cbfc673ddc25",
+    "bytes": 492,
+    "fetched_at": "2026-10-07T12:32:27Z"
+  },
+  {
+    "id": "1224",
+    "title": "偶发性错误，线程安全 ，偶发错误",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1224",
+    "path": "1224.md",
+    "category": "设计模式",
+    "sha256": "a82c0b984e2eff8886ab8b1bb3e8cbb1e817e05e05439f56f6fc9f51815e2522",
+    "bytes": 4188,
+    "fetched_at": "2026-10-07T12:32:28Z"
+  },
+  {
+    "id": "2366",
+    "title": "提问模版",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2366",
+    "path": "2366.md",
+    "category": "设计模式",
+    "sha256": "8d48e78716a0df431b9887a5da68f123b4865aed3f9656e0833199c067fad5db",
+    "bytes": 13604,
+    "fetched_at": "2026-10-07T12:32:28Z"
+  },
+  {
+    "id": "2367",
+    "title": "常见问题汇总",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2367",
+    "path": "2367.md",
+    "category": "设计模式",
+    "sha256": "11b3fe308defd861bb5b8dc7d0aedb2b94676ee2a0769eb3e19b0dd5a4e6bbf4",
+    "bytes": 5360,
+    "fetched_at": "2026-10-07T12:32:28Z"
+  },
+  {
+    "id": "1219",
+    "title": ".NET 操作 MySql",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1219",
+    "path": "1219.md",
+    "category": "数据库特色",
+    "sha256": "5460bbb56b213de5300194c602d49840d807b11c02ab38badd5585ead88c08c8",
+    "bytes": 9736,
+    "fetched_at": "2026-10-07T12:32:28Z"
+  },
+  {
+    "id": "1218",
+    "title": ".NET 操作 SqlServer",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1218",
+    "path": "1218.md",
+    "category": "数据库特色",
+    "sha256": "637c341d2916262b54dbeed3c20fa57b3df1aa660aafc9398e0bf8c6acc2bcbc",
+    "bytes": 8448,
+    "fetched_at": "2026-10-07T12:32:28Z"
+  },
+  {
+    "id": "1220",
+    "title": "Oracle  .NET操作",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1220",
+    "path": "1220.md",
+    "category": "数据库特色",
+    "sha256": "59eca396b16669436d8b93ba6b523c37fecec57bce7d5f91975d2a9e92e9138e",
+    "bytes": 10953,
+    "fetched_at": "2026-10-07T12:32:29Z"
+  },
+  {
+    "id": "1221",
+    "title": ".NET ORM操作 PostgreSQL   PGSQL",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1221",
+    "path": "1221.md",
+    "category": "数据库特色",
+    "sha256": "893da78ed7635e5301154ce817894096c162dd385cd32d198780679086fc5a7c",
+    "bytes": 8709,
+    "fetched_at": "2026-10-07T12:32:29Z"
+  },
+  {
+    "id": "1222",
+    "title": ".NET操作 Sqlite",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1222",
+    "path": "1222.md",
+    "category": "数据库特色",
+    "sha256": "7bd423175eadd506b81aaec03e5b71936ffe9c04023f9be95312262fbde55f3e",
+    "bytes": 8519,
+    "fetched_at": "2026-10-07T12:32:30Z"
+  },
+  {
+    "id": "1229",
+    "title": "达梦数据库 .NET 操作",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1229",
+    "path": "1229.md",
+    "category": "数据库特色",
+    "sha256": "388319b9101def9f06d259cb0a5185d6554551e573a22c9673641f37ee9e6a29",
+    "bytes": 5319,
+    "fetched_at": "2026-10-07T12:32:30Z"
+  },
+  {
+    "id": "2368",
+    "title": "人大金仓 .NET 操作数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2368",
+    "path": "2368.md",
+    "category": "数据库特色",
+    "sha256": "6c42006cb2294a83f48c13e1099fc7bac8fad0425afdf035ca206ee714283208",
+    "bytes": 10610,
+    "fetched_at": "2026-10-07T12:32:31Z"
+  },
+  {
+    "id": "2434",
+    "title": "时序数据库   .NET 操作  QuestDb",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2434",
+    "path": "2434.md",
+    "category": "数据库特色",
+    "sha256": "43422fbcba57ef79b15758281ebcac63261e48f207644c18426c3656763c6209",
+    "bytes": 9500,
+    "fetched_at": "2026-10-07T12:32:33Z"
+  },
+  {
+    "id": "2438",
+    "title": "华为OpenGauss/ .NET GaussDB .NET操作  高斯数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2438",
+    "path": "2438.md",
+    "category": "数据库特色",
+    "sha256": "162cdc972ecdc6de2df69ddffd1b20098208589bf92b183676722acd0db8a0ee",
+    "bytes": 4776,
+    "fetched_at": "2026-10-07T12:32:33Z"
+  },
+  {
+    "id": "2440",
+    "title": "Gbase  8s (南大通用)  .NET ORM",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2440",
+    "path": "2440.md",
+    "category": "数据库特色",
+    "sha256": "4a0701c000c8477220e7823abe123827a8bc0201e6b31cbcc9f231891673a6a7",
+    "bytes": 2512,
+    "fetched_at": "2026-10-07T12:32:33Z"
+  },
+  {
+    "id": "2564",
+    "title": ".NET操作OceanBase",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2564",
+    "path": "2564.md",
+    "category": "数据库特色",
+    "sha256": "758c19a5ba62b2bbad95f87007c73156b81eb208e34c1eb78d8df21a33a145b8",
+    "bytes": 2295,
+    "fetched_at": "2026-10-07T12:32:33Z"
+  },
+  {
+    "id": "2565",
+    "title": ".NET操作 Tidb",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2565",
+    "path": "2565.md",
+    "category": "数据库特色",
+    "sha256": "febc652d2f0326db8e966461958af3c382df91c31068fd2c27bc39cc7f941780",
+    "bytes": 1384,
+    "fetched_at": "2026-10-07T12:32:33Z"
+  },
+  {
+    "id": "2566",
+    "title": ".NET连接 TDengine ，.NET 操作 TDengine",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2566",
+    "path": "2566.md",
+    "category": "数据库特色",
+    "sha256": "417c67799a8a55ec394b3fe8a00c1b07a8f0b70dc5f9284d200895bf198e1ed6",
+    "bytes": 11703,
+    "fetched_at": "2026-10-07T12:32:34Z"
+  },
+  {
+    "id": "2570",
+    "title": ".NET Vastbase  .NET 中操作和使用 Vastbase   海量数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2570",
+    "path": "2570.md",
+    "category": "数据库特色",
+    "sha256": "c8c7fe7442e23ed228df33edacc5c323d81f3413230c400b428abea686ab6ce6",
+    "bytes": 3309,
+    "fetched_at": "2026-10-07T12:32:34Z"
+  },
+  {
+    "id": "2575",
+    "title": ".NET使用PolarDB教程",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2575",
+    "path": "2575.md",
+    "category": "数据库特色",
+    "sha256": "2d83b75a98bd0e9dea3642eda5c8bcfe4650863b82f1a75bf0d10394ebd98a99",
+    "bytes": 727,
+    "fetched_at": "2026-10-07T12:32:34Z"
+  },
+  {
+    "id": "2645",
+    "title": ".NET下操作 Hana数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2645",
+    "path": "2645.md",
+    "category": "数据库特色",
+    "sha256": "194ef8b33083835dd79c97261370193b15ae996a9a4919a0e3368fccc64c358b",
+    "bytes": 258,
+    "fetched_at": "2026-10-07T12:32:35Z"
+  },
+  {
+    "id": "2646",
+    "title": ".NET操作 DB2",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2646",
+    "path": "2646.md",
+    "category": "数据库特色",
+    "sha256": "b8861600d18db73d77a9b27608129a7f2f95edb85915b3e0faac16a9770002d3",
+    "bytes": 228,
+    "fetched_at": "2026-10-07T12:32:35Z"
+  },
+  {
+    "id": "2647",
+    "title": ".NET 操作 Duckdb",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2647",
+    "path": "2647.md",
+    "category": "数据库特色",
+    "sha256": "71c8264a13f55fa785565be58a55afd8ec16a69bfb56b2c97c0952aeb1cbf205",
+    "bytes": 1365,
+    "fetched_at": "2026-10-07T12:32:36Z"
+  },
+  {
+    "id": "2651",
+    "title": ".NET中使用 MongoDB 数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2651",
+    "path": "2651.md",
+    "category": "数据库特色",
+    "sha256": "c5f3babcdca65d3f93bbc1049aba64f01d3e6603d96c3f86512e9fcf3cbc0e33",
+    "bytes": 9323,
+    "fetched_at": "2026-10-07T12:32:36Z"
+  },
+  {
+    "id": "2657",
+    "title": ".NET ORM操作 TDSQL",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2657",
+    "path": "2657.md",
+    "category": "数据库特色",
+    "sha256": "73c3c2c47fb86c7c278b2c89ac42168c42f719acd1a2b47e56199948a7db2fc4",
+    "bytes": 1645,
+    "fetched_at": "2026-10-07T12:32:36Z"
+  },
+  {
+    "id": "2642",
+    "title": "C# / .NET  下面使用  GoldenDB",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2642",
+    "path": "2642.md",
+    "category": "数据库特色",
+    "sha256": "f88e4c05b80f1488633baff560ce42019bc4c3f54969fa9156f6d29e1a3d81a8",
+    "bytes": 389,
+    "fetched_at": "2026-10-07T12:32:36Z"
+  },
+  {
+    "id": "2436",
+    "title": ".NET ORM 瀚高数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2436",
+    "path": "2436.md",
+    "category": "数据库特色",
+    "sha256": "22ddcbf80ae0cba285781478f9cbf3eb3e90c382124d7fa3da3a60132fee32d4",
+    "bytes": 2703,
+    "fetched_at": "2026-10-07T12:32:37Z"
+  },
+  {
+    "id": "2441",
+    "title": "NET ORM Odbc操作数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2441",
+    "path": "2441.md",
+    "category": "数据库特色",
+    "sha256": "31122cafa30220fbe76421f81636039bbbcc507d6aa9aea587ba1e6ee44f9e55",
+    "bytes": 4475,
+    "fetched_at": "2026-10-07T12:32:37Z"
+  },
+  {
+    "id": "2437",
+    "title": ".NET中操作 ClickHouse .NET ORM",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2437",
+    "path": "2437.md",
+    "category": "数据库特色",
+    "sha256": "e5c40154d9c9c40c2e2313b70314de61f3da7498188b786243b2cb7f3842b21b",
+    "bytes": 2237,
+    "fetched_at": "2026-10-07T12:32:38Z"
+  },
+  {
+    "id": "2412",
+    "title": "MySqlConnector",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2412",
+    "path": "2412.md",
+    "category": "数据库特色",
+    "sha256": "267cb4df93a655839d88eaa1a465d704991d17156c2619fa90e16d46b5cd1938",
+    "bytes": 482,
+    "fetched_at": "2026-10-07T12:32:38Z"
+  },
+  {
+    "id": "2410",
+    "title": ".NET操作 Access  （MSAccess）",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2410",
+    "path": "2410.md",
+    "category": "数据库特色",
+    "sha256": "510e147a2200c1cd29f690d41c7226f19179f4f8b03a59e0a99cac16728072eb",
+    "bytes": 1761,
+    "fetched_at": "2026-10-07T12:32:38Z"
+  },
+  {
+    "id": "2577",
+    "title": "Doris 数据库在.NET 下使用",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2577",
+    "path": "2577.md",
+    "category": "数据库特色",
+    "sha256": "78ca1122b423c6d22e9e31c1ac542dc99cee9eb86e8684151f52f0cab0cf95de",
+    "bytes": 1896,
+    "fetched_at": "2026-10-07T12:32:38Z"
+  },
+  {
+    "id": "2369",
+    "title": "神通数据库 .NET 操作",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2369",
+    "path": "2369.md",
+    "category": "数据库特色",
+    "sha256": "eb2b7c0f8c38047eb681f594bbe37963ee087ac98870c5c40f987496efa5b02a",
+    "bytes": 2908,
+    "fetched_at": "2026-10-07T12:32:38Z"
+  },
+  {
+    "id": "2411",
+    "title": "扩展数据库",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2411",
+    "path": "2411.md",
+    "category": "数据库特色",
+    "sha256": "2ca35e283f92657b8d4ad3050c5abcf7f061c8957f5222df54e399d4eaf119b4",
+    "bytes": 2487,
+    "fetched_at": "2026-10-07T12:32:42Z"
+  },
+  {
+    "id": "2640",
+    "title": "虚谷数据库 GUXU",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2640",
+    "path": "2640.md",
+    "category": "数据库特色",
+    "sha256": "a4161021fc848ced583a1c5e53e658d36d30f9129e87fa073c8e16d5d18c9347",
+    "bytes": 1288,
+    "fetched_at": "2026-10-07T12:32:42Z"
+  },
+  {
+    "id": "2413",
+    "title": "Sql中间管道 5.0.6.4",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2413",
+    "path": "2413.md",
+    "category": "数据库特色",
+    "sha256": "a0e335d1827119491cd37d50d6c6848e54730676e5f6001e635fd8e45865704e",
+    "bytes": 3170,
+    "fetched_at": "2026-10-07T12:32:42Z"
+  },
+  {
+    "id": "2370",
+    "title": "数据库常见的数据类型",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2370",
+    "path": "2370.md",
+    "category": "数据库特色",
+    "sha256": "3c5a30693612630750c13b85a16dc471328db9ff6461826b10a9b75f8442f425",
+    "bytes": 255,
+    "fetched_at": "2026-10-07T12:32:42Z"
+  },
+  {
+    "id": "1201",
+    "title": ".NET ORM 分表组件，自动分表",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1201",
+    "path": "1201.md",
+    "category": "性能优化",
+    "sha256": "f2b3bfaa8f3428de0d302f52f91d98561c60fba583a5fd86fbaf858290ad2172",
+    "bytes": 20851,
+    "fetched_at": "2026-10-07T12:32:44Z"
+  },
+  {
+    "id": "1209",
+    "title": "读写分离/主从",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1209",
+    "path": "1209.md",
+    "category": "性能优化",
+    "sha256": "66b315bc5ea192789debf1d8649f595f30513133239f558260f26afef277584d",
+    "bytes": 5860,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "1214",
+    "title": "二级缓存",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1214",
+    "path": "1214.md",
+    "category": "性能优化",
+    "sha256": "8d5fca322ba4383cad89813b84cc41e0bb9c734f540e2e39037a9a151c10d80b",
+    "bytes": 6508,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "1231",
+    "title": ".NET 异步用法",
+    "url": "https://www.donet5.com/Home/Doc?typeId=1231",
+    "path": "1231.md",
+    "category": "性能优化",
+    "sha256": "0b80063649f4a3eb90b6bbfc6c6e71af555aa0b65a33d43c568a57820a2a83a4",
+    "bytes": 5170,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "2349",
+    "title": "数据库异步并发执行",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2349",
+    "path": "2349.md",
+    "category": "性能优化",
+    "sha256": "53ace6597498decfe4be83c3344415a2690f4b52df1f968e70d444cadc4502f9",
+    "bytes": 3502,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "2403",
+    "title": "SAAS 分库 设计",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2403",
+    "path": "2403.md",
+    "category": "性能优化",
+    "sha256": "694140e4bdd8a845ab0884b269e48246c7f2cd39c42f4ddbf7a5632c2f797662",
+    "bytes": 12200,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "2404",
+    "title": "大数据写入、大数据批量操作、更新，大数据更新 ORM 文档",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2404",
+    "path": "2404.md",
+    "category": "性能优化",
+    "sha256": "1ab67792a06125b3b12399d4128e1fee4c76864c26074b0c92fa3bb568d1f235",
+    "bytes": 6048,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "2439",
+    "title": "BI 大数据分析、物联网和金融",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2439",
+    "path": "2439.md",
+    "category": "性能优化",
+    "sha256": "e8344eca9ae461efaffe1237fb7b244abdce2866d2cbe1827563c8ee36ee4064",
+    "bytes": 538,
+    "fetched_at": "2026-10-07T12:32:45Z"
+  },
+  {
+    "id": "2361",
+    "title": "字符索引优化 、查询 、ORM  慢   (字符编码 N‘’)",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2361",
+    "path": "2361.md",
+    "category": "性能优化",
+    "sha256": "f225a15406fea3ec1cba717060202b150cde08255d8243fb18016155d5b9710b",
+    "bytes": 3179,
+    "fetched_at": "2026-10-07T12:32:46Z"
+  },
+  {
+    "id": "2414",
+    "title": "分批处理内存优化",
+    "url": "https://www.donet5.com/Home/Doc?typeId=2414",
+    "path": "2414.md",
+    "category": "性能优化",
+    "sha256": "e989c0fcf0757e049bc4c8ec532ae060aec651dc30d9230b9be96bcf034a61b1",
+    "bytes": 3449,
+    "fetched_at": "2026-10-07T12:32:46Z"
+  }
+]

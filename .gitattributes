@@ -1,0 +1,15 @@
+*.md text eol=lf
+docs/*.md whitespace=-blank-at-eol
+*.json text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.bmp binary
+*.svg text eol=lf
+*.avif binary
